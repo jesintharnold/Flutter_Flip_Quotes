@@ -10,7 +10,7 @@ A dart based Flip-Panel hard-coded from Scratch. It Combines Quotes Api from Her
 ![Demo](https://github.com/jesintharnold/Flutter_Flip_Quotes/raw/master/flip_panel_demo.gif)
   
   
-  ``Request:``   Devolepers are Welcomed For suggestions and issues.
+  ``Request:``   Developers are Welcomed For suggestions and issues.
   
   
   
